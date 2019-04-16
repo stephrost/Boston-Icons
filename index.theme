@@ -16,7 +16,7 @@ Example=folder
 #	  Directories
 #	---------------
 
-Directories=symbolic/actions,scalable/apps,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/devices,48/mimes,48/places,48/status,16/devices,16/mimes,16/places,16/status,
+Directories=symbolic/actions,scalable/apps,symbolic/categories,symbolic/devices,symbolic/mimes,symbolic/places,symbolic/status,128/actions,128/apps,128/devices,128/mimes,128/places,128/status,48/actions,48/apps,48/categories,48/devices,48/mimes,48/places,48/status,32/apps,32/places,32/mimes,22/apps,22/places,22/mimes,16/apps,16/devices,16/mimes,16/places,16/status,
 
 #-----------------
 
@@ -33,6 +33,13 @@ Size=16
 MinSize=8
 MaxSize=512
 Type=Scalable
+
+# [symbolic/categories]
+# Context=Categories
+# Size=16
+# MinSize=8
+# MaxSize=512
+# Type=scalable
 
 [symbolic/devices]
 Context=Devices
@@ -115,6 +122,20 @@ MinSize=8
 MaxSize=48
 Type=Scalable
 
+# [48/apps]
+# Context=Applications
+# Size=48
+# MinSize=8
+# MaxSize=48
+# Type=Scalable
+
+# [48/categories]
+# Context=Categories
+# Size=48
+# MinSize=8
+# MaxSize=48
+# Type=Scalable
+
 [48/devices]
 Context=Devices
 Size=48
@@ -144,6 +165,59 @@ MaxSize=48
 Type=Scalable
 
 #-----------------
+
+# [32/apps]
+# Context=Applications
+# Size=32
+# MinSize=8
+# MaxSize=32
+# Type=Scalable
+
+# [32/mimes]
+# Context=MimeTypes
+# Size=32
+# MinSize=8
+# MaxSize=32
+# Type=Scalable
+
+# [32/places]
+# Context=Places
+# Size=32
+# MinSize=8
+# MaxSize=32
+# Type=Scalable
+
+#-----------------
+
+# [22/apps]
+# Context=Applications
+# Size=22
+# MinSize=8
+# MaxSize=22
+# Type=Scalable
+
+# [22/mimes]
+# Context=MimeTypes
+# Size=22
+# MinSize=8
+# MaxSize=22
+# Type=Scalable
+
+# [22/places]
+# Context=Places
+# Size=22
+# MinSize=8
+# MaxSize=22
+# Type=Scalable
+
+#-----------------
+
+# [16/apps]
+# Context=Applications
+# Size=16
+# MinSize=8
+# MaxSize=16
+# Type=Scalable
 
 [16/devices]
 Context=Devices
