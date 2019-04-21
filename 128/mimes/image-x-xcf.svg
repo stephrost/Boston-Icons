@@ -27,9 +27,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="29.326977"
-     inkscape:cy="61.590068"
+     inkscape:zoom="7.919596"
+     inkscape:cx="27.24566"
+     inkscape:cy="46.333813"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -237,8 +237,9 @@
       <path
          id="rect851"
          transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
-         d="M 20 4 L 20 124 L 108 124 L 108 28 L 84 4 L 20 4 z "
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 20,4 v 120 h 88 V 28 L 84,4 Z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.99999988;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccccccccc"
          inkscape:connector-curvature="0"
@@ -249,8 +250,9 @@
       <path
          transform="matrix(0.26458333,0,0,0.26458333,82.550003,136.13333)"
          id="path863"
-         d="M 82 4 L 82 30 L 108 30 L 108 28 L 84 4 L 82 4 z M 84 7 L 105 28 L 84 28 L 84 7 z "
-         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         d="m 82,4 v 26 h 26 V 28 L 84,4 Z m 2,3 21,21 H 84 Z"
+         style="fill:#a8b4bd;fill-opacity:1;stroke:none;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
@@ -271,7 +273,7 @@
          id="path850"
          transform="matrix(0.26458334,0,0,0.26458334,82.550003,136.13333)"
          d="M 77,42 64,68 h 26 z"
-         style="fill:#fbe865;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#fae342;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>

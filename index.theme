@@ -122,12 +122,12 @@ MinSize=8
 MaxSize=48
 Type=Scalable
 
-# [48/apps]
-# Context=Applications
-# Size=48
-# MinSize=8
-# MaxSize=48
-# Type=Scalable
+[48/apps]
+Context=Applications
+Size=48
+MinSize=8
+MaxSize=48
+Type=Scalable
 
 # [48/categories]
 # Context=Categories
@@ -212,12 +212,12 @@ Type=Scalable
 
 #-----------------
 
-# [16/apps]
-# Context=Applications
-# Size=16
-# MinSize=8
-# MaxSize=16
-# Type=Scalable
+[16/apps]
+Context=Applications
+Size=16
+MinSize=8
+MaxSize=16
+Type=Scalable
 
 [16/devices]
 Context=Devices

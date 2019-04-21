@@ -44,8 +44,8 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="31.392432"
-     inkscape:cx="11.796489"
+     inkscape:zoom="31.392433"
+     inkscape:cx="7.6729249"
      inkscape:cy="4.543167"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -109,7 +109,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer">
     <g
-       id="g878">
+       id="g870">
       <path
          inkscape:connector-curvature="0"
          id="path882"
@@ -164,11 +164,12 @@
          height="6"
          width="6"
          id="rect840"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         style="opacity:1;fill:#e67760;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
       <path
          id="rect844"
-         d="M 11 10 L 11 12 L 10 12 L 11 13 L 12 14 L 13 13 L 14 12 L 13 12 L 13 10 L 11 10 z "
-         style="opacity:1;fill:#8698a6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1" />
+         d="m 11,10 v 2 h -1 l 1,1 1,1 1,-1 1,-1 h -1 v -2 z"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:35;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

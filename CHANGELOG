@@ -1,5 +1,84 @@
+ 16 04 2019 // v 0.3
+ --------------------
+
+ # Release focused on corrections, better visualization and production enviroments
+
+ 1. Adjusted color palette: green, yellow
+ 2. Symbolic icons
+  Revised symbolic folder
+  Revised CMake
+  VLC
+  VirualBox
+  GParted
+  LibreOffice startcenter
+  LibreOffice Math
+  LibreOffice Writer
+  LibreOffice Impress
+  LibreOffice Draw
+  LibreOffice Base
+  Gnumeric
+  Abiword
+  Audacity
+  Blender
+  Binary mimetype
+  Revised Firefox
+  New system software install
+  Revised system software update
+ 3. Filetypes icons
+  New 16px EPUB
+  Revised 16px video
+  48px gtk file
+  Office Math/Formula
+  Office Database
+  Revised office Presentations
+  Revised office Sheets
+  Revised office Draw
+  Revised office Documents
+  Desktop file/link
+  Android APK
+  Flatpak & Snap packages
+  Flatpak repository
+  MSI (Windows Installer)
+  VCard available for common use
+  Partial download
+  Encrypted (PGP)
+  PGP Key
+  PGP Signature
+  C (header, source)
+  C++ (header, source)
+  QML
+  Vala
+  Backup / trash
+  Octet stream
+  SQLite databases
+  Markdown
+  Revised package repository
+  Corrected 48px text-generic-template
+  CMake
+  Makefile
+  Copying / Copyright
+  MIDI
+  Microsoft Office compatibilities
+  Microsoft Publisher
+  Python bytecode
+  Tcl
+  Sharedlib
+ 4. Folder-drag-accept
+ 5. Revised DOSBox icon
+ 6. Dropped CMake icon
+ 7. Revised trash icon and trash full. 16px added
+ 8. Revised network server
+ 9. Revised network workgroup
+ 10. Revised desktop icon. Improved file performance
+ 11. New system software installer icon
+ 12. New software updater
+ 13. Revised devices (HDD, SSD)
+ 14. Ready for 48px and 12px app icons
+
+ =====================================================================
+
  19 03 2019 // v 0.2
- -------------------
+ --------------------
 
  # Rebooting Boston Icons (outdated version: 0.1 -Nov 17, 2016-)
  # Made from scratch again
@@ -14,24 +93,27 @@
  7. Actions-document-open test icon
  8. HDD and SSD drives icons
  9. Icons & symbolics:
-	Xsensors
-	Hardinfo
-	Spotify
-	FLUID
-	CMake
-	GRUB Customizer
-	DOSBox
-	PDF Shuffler
-	GNOME App Folders Manager
+  Xsensors
+  Hardinfo
+  Spotify
+  FLUID
+  CMake
+  GRUB Customizer
+  DOSBox
+  PDF Shuffler
+  GNOME App Folders Manager
  10. "Image loading" status icon
  11. Gpick and Qt4L2 symbolic icons
  12. LMMS filetype and symbolic
- 13. Calendar filetypes available to use
+ 13. Calendar filetypes available for use
  14. Added various symbolic links for duplicated files
  15. Some 48px and 16px icons for small sizes and non symbolic use
 
 
- 17 11 2019 // v 0.1
+ =====================================================================
+
+
+ 17 11 2016 // v 0.1
  -------------------
 
  1. General redesign (better sizes, contrast, visibility, harmony and coherence)
@@ -84,6 +166,7 @@
  48. Help browser icon
  49. Hard Disk drive icon
 
+=====================================================================
 
  20 01 2016 // b 5
  -----------------
@@ -142,12 +225,14 @@
  51. VLC icon
  52. Chromium and Google Chrome icons
 
+=====================================================================
 
  18 11 2015 // b 4 revision 1
  ----------------------------
 
  1. Revised GNOME Maps colors
 
+=====================================================================
 
  17 11 2015 // b 4
  -----------------
@@ -203,6 +288,7 @@
  49. Input keyboard icon
  50. Revised Screenshooter icon
 
+=====================================================================
 
  01 10 2015 // b 3
  -----------------
@@ -315,6 +401,7 @@
  106. GNOME Photos icon & symbolic
  107. GNOME Books icon
 
+=====================================================================
 
  07 09 2015 // b 2
  -----------------
@@ -330,6 +417,7 @@
  9. Calendar mime icons
  10. EPUB mime icon
 
+=====================================================================
 
  06 09 2015 // b 1
  -----------------
